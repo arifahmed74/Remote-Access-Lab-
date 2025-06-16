@@ -54,3 +54,28 @@ Settings > System > Remote Desktop > Enable
   ---
 
 ## 📸 Screenshots
+Create Windows VM in UTM:
+
+<img width="648" alt="Screenshot 2025-06-16 at 11 42 10 AM" src="https://github.com/user-attachments/assets/2a424cbe-1bca-44e6-8e00-b01d9d71a90b" />
+
+Configure Network Access:
+
+<img width="889" alt="Screenshot 2025-06-16 at 11 42 24 AM" src="https://github.com/user-attachments/assets/ae41ce9d-15db-48fe-a0f8-09cccccca2cb" />
+
+Allow Remote Access Through Firewall:  
+
+<img width="1022" alt="Screenshot 2025-06-11 at 12 30 01 PM" src="https://github.com/user-attachments/assets/2ba79fe6-7daa-4cae-8e1a-657482cbaa67" />
+
+Connect From Host Mac:
+
+<img width="1440" alt="Screenshot 2025-06-11 at 12 50 51 PM" src="https://github.com/user-attachments/assets/2910806e-5f67-4a39-a21d-30a6c201b436" />
+
+Remote Access Authentication and Connection Status:
+
+<img width="1168" alt="Screenshot 2025-06-11 at 12 52 02 PM" src="https://github.com/user-attachments/assets/eea58eb4-7a3c-4534-b256-dfa7335efb8e" />
+
+
+
+
+
+
